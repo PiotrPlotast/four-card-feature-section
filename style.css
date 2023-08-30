@@ -114,20 +114,22 @@ h3 {
 
     .card-cyan {
         grid-area: cyan;
+        transform: translateX(2rem);
     }
 
     .card-red {
         grid-area: red;
-        transform: translateY(7rem);
+        transform: translateY(8rem);
     }
 
     .card-orange {
         grid-area: orange;
-        transform: translateY(-7rem);
+        transform: translateY(-8rem);
     }
 
     .card-blue {
         grid-area: blue;
+        transform: translateX(-2rem);
     }
 
     .main-text {
