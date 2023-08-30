@@ -97,6 +97,14 @@ h3 {
 }
 
 @media (min-width: 850px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
     .cards {
         grid-template-areas:
             ". red ."
