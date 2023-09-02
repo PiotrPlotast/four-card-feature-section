@@ -4,4 +4,4 @@
  - Html markup
  -css with grid
 <h2>Screenshots:</h2>
-![image](https://github.com/Pietrelll/four-card-feature-section/assets/89207478/d98832dd-e94d-4f5e-8f2c-313dbb31f795)
+<img src="https://github.com/Pietrelll/four-card-feature-section/assets/89207478/d98832dd-e94d-4f5e-8f2c-313dbb31f795">
